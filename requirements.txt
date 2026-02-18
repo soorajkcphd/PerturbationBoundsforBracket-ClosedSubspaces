@@ -1,0 +1,10 @@
+# Required
+numpy>=1.24
+scipy>=1.11
+matplotlib>=3.7
+
+# Optional: GPU acceleration for batch matrix exponentials
+# torch>=2.0
+
+# Optional: ROC/AUC computation in Experiment 4
+# scikit-learn>=1.3
