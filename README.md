@@ -85,7 +85,7 @@ See `requirements.txt` for exact versions.
 ├── PerturbationBounds_experiments.py
 ├── requirements.txt      # Python dependencies
 ├── README.md
-└── figures/              # Generated figures (after running experiments)
+
 ```
 
 ## Citation
